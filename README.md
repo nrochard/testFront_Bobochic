@@ -16,6 +16,7 @@ Pour le slider de produits en bas de pages, vous devez utiliser une librairie JS
 
 Vous devez également déposé votre rendu dans un repository github. Nous vous conseillons de commit régulièrement afin de voir l'avancée de votre rendu.
 
+Vous pouvez directement exporter l'ensemble des icônes et des images depuis la maquette Figma.
 
 ## Maquette de l'intégration
 
