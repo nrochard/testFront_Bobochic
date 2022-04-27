@@ -2,7 +2,7 @@
 
 Pour la réalisation de ce test technique, nous souhaitons évaluer vos compétences en HTML, CSS, et JS !
 
-[Maquette FIGMA](https://www.figma.com/file/8Qj0ClbbxbM3j1GDFt0vAv/Untitled?node-id=2%3A4119)
+[Maquette FIGMA](https://www.figma.com/file/8Qj0ClbbxbM3j1GDFt0vAv/Test-Technique-Front?node-id=0%3A1)
 
 [Aperçu FIGMA](https://www.figma.com/proto/DtEOnO17XeTLVbMEGflo1F/Design-System-Bobochic?page-id=3349%3A24675&node-id=3357%3A24101&viewport=414%2C48%2C0.28&scaling=min-zoom&starting-point-node-id=3357%3A24101&show-proto-sidebar=1)
 
